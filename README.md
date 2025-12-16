@@ -1,39 +1,85 @@
-# <u>👋🏾 **Hi, I'm Robert Ocloo!**<u/>
+# 👋🏾 Hi, I'm Robert Ocloo
 
-## 🌟 About Me
-Hi! I’m Robert, a cloud engineer who loves turning exciting ideas into real-life innovations. With a love for cloud development and mobile app development and a passion for crafting engaging user experiences, I find joy in bridging ideas and technology.
+## ☁️ About Me
+
+I’m Robert — a **systems- and cloud-focused engineer** with experience supporting production environments, building cloud infrastructure, and shipping real applications used by real people.
+
+I work best at the intersection of **operations, infrastructure, and software**, where reliability, clarity, and low-risk execution matter more than buzzwords. I’m especially interested in IT systems, cloud operations, and infrastructure that supports regulated or mission-critical environments.
+
+---
 
 ## 🔧 Technical Skills
-**Programming Languages:** Python, Java, JavaScript, HTML/CSS, SQL  
-**Cloud Services:** AWS, Firebase  
-**Databases:** MySQL, PostgreSQL  
-**Tools & Technologies:** Git, CI/CD, Flutter  
-**Methodologies:** Agile Development, Unit Testing
 
-## 💼 Experience
+* **Programming:** Python, Java, JavaScript, SQL, Bash, HTML/CSS
+* **Cloud & Infrastructure:** AWS (EC2, S3, IAM, RDS, VPC, CloudWatch, ALB), Terraform
+* **Databases:** MySQL, PostgreSQL, Aurora MySQL
+* **Frameworks & Platforms:** React, Flutter, Firebase
+* **Systems & Tools:** Linux, Git, CI/CD, Postman
 
-### 💻 Software Programming Intern  
-**S.T.E.A.M Garden · May 2023 - Aug 2023**
+---
 
-- Developed an automated data collection solution using Python and Selenium, streamlining web scraping processes for targeted Albany region data sources.
-- Designed and optimized scalable, efficient web scrapers, ensuring accurate and reliable data extraction.
-- Diagnosed and resolved software and performance issues, applying debugging techniques and iterative testing to enhance script efficiency.
-- Improved data handling workflows, implementing best practices for data storage, structuring, and cleaning to maximize usability.
-- Strengthened expertise in Python programming, automation, and scalable code design, gaining hands-on experience in efficient data collection pipelines.
+## 💼 Experience Highlights
 
-### 🔬 Research Assistant  
-**University at Albany · Sep 2022 - May 2023**
+### 🏭 Process Operator — Scientific Design (Current)
 
-- Collected, cleaned, and preprocessed large datasets to support a machine learning research project.
-- Developed and optimized Python scripts to automate data analysis tasks, improving processing efficiency by 30%.
-- Assisted in feature engineering and exploratory data analysis (EDA) to prepare data for model development.
-- Participated in weekly team meetings, contributing to discussions on algorithm selection and data preprocessing techniques.
-- Collaborated closely with faculty and fellow undergraduate students, reinforcing teamwork and problem-solving skills in a research setting.
+* Operate and monitor automated production systems in a regulated manufacturing environment.
+* Track throughput, downtime, and material usage to support compliance and operational efficiency.
+* Produce clear shift documentation used for audits, handoffs, and continuous improvement.
 
-## 🎓 Education
-**University at Albany** - Bachelor of Science in Computer Science, Informatics & Mathematics
+### ☁️ SysOps Trainee — AWS Silver Lining Program
 
-## 🌍 Mission Alignment
-I am passionate about using technology to solve real-world problems and make a meaningful impact. My goal is to work on projects that contribute to social good, sustainability, and efficiency, ensuring that my work aligns with the larger mission of creating positive change.
+* Hands-on training in cloud operations led by AWS engineers and Solutions Architects.
+* Designed and deployed a **production-style three-tier AWS architecture** using Terraform.
+* Implemented IAM roles, ALB, Auto Scaling, NAT Gateways, and SSM Session Manager (keyless access).
+* Configured CloudWatch alarms and AWS Budgets for cost and operational monitoring.
 
-## 🔗 LinkedIn: [Let's Connect](https://www.linkedin.com/in/robert-ocloo)
+### 💻 Software Engineering Intern — S.T.E.A.M Garden
+
+* Built automated data collection pipelines using **Python and Selenium**, reducing manual work by ~40%.
+* Deployed automation on AWS EC2 with scheduled runs and S3-based data storage.
+* Worked closely with non-technical stakeholders to refine requirements and outputs.
+
+### 🖥️ IT Support Assistant — University at Albany
+
+* Resolved 30–40 weekly tickets covering Windows, macOS, networking, printers, and user access.
+* Supported labs and classrooms using ServiceNow and remote support tools.
+* Documented common fixes to reduce repeat issues and improve response times.
+
+---
+
+## 🚀 Selected Projects
+
+### 🌐 AWS Three-Tier Infrastructure (Terraform)
+
+* Infrastructure-as-code project demonstrating secure, scalable AWS design.
+* Auto-scaling React frontend, Node.js backend in private subnets, and Multi-AZ Aurora MySQL.
+* Emphasis on least-privilege IAM, monitoring, and production readiness.
+
+### 📱 Community Mobile App (iOS & Android)
+
+* Built with Flutter and Firebase for authentication, real-time updates, and push notifications.
+* Replaced manual coordination processes for a local organization.
+* Actively maintained based on user feedback.
+
+---
+
+## 🎓 Education & Certifications
+
+* **B.S. Computer Science (Informatics & Mathematics)** — University at Albany
+* **AWS Certified Solutions Architect – Associate**
+* **AWS Certified Cloud Practitioner**
+* *AWS SysOps Administrator – Associate (in progress)*
+
+---
+
+## 🌍 What Drives Me
+
+I’m motivated by building **dependable systems** — infrastructure and software that people can rely on in real-world conditions. I value clarity, documentation, and thoughtful design, and I’m drawn to work where uptime, safety, and correctness matter.
+
+---
+
+## 🔗 Connect
+
+* **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/robert-ocloo)
+* **GitHub:** You’re already here 🙂
+
