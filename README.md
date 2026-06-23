@@ -1,11 +1,5 @@
 # 👋🏾 Hi, I'm Robert Ocloo
 
-## ☁️ About Me
-
-I’m Robert — a **systems- and cloud-focused engineer** with experience supporting production environments, building cloud infrastructure, and shipping real applications used by real people.
-
-I work best at the intersection of **operations, infrastructure, and software**, where reliability, clarity, and low-risk execution matter more than buzzwords. I’m especially interested in IT systems, cloud operations, and infrastructure that supports regulated or mission-critical environments.
-
 ---
 
 ## 🔧 Technical Skills
